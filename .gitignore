@@ -1,0 +1,7 @@
+/vendor
+/.idea
+composer.phar
+node_modules/
+.env.*.php
+.env.php
+.env
